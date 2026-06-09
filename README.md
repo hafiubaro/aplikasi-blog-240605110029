@@ -19,7 +19,8 @@ Aplikasi Blog merupakan sistem manajemen konten (CMS) berbasis Laravel yang digu
 
 ## Cara Menjalankan Aplikasi
 
-1. Clone repository
+1. Clone repository dan link video youtube
 
 ```bash
-git clone https://github.com/hafiubaro/aplikasi-blog-240605110029.git
+- git clone https://github.com/hafiubaro/aplikasi-blog-240605110029.git
+- 
