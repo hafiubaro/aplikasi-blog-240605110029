@@ -12,11 +12,11 @@ Aplikasi Blog merupakan sistem manajemen konten (CMS) berbasis Laravel yang digu
 
 ## Teknologi yang Digunakan
 
-* Laravel
-* PHP
-* MySQL
-* Bootstrap
-* JavaScript
+- Laravel
+- PHP
+- MySQL
+- Bootstrap
+- JavaScript
 
 ## Cara Menjalankan Aplikasi
 
@@ -74,4 +74,4 @@ http://127.0.0.1:8000
 
 ## Video Demonstrasi
 
-Tambahkan link video YouTube demonstrasi di sini.
+Link video YouTube demonstrasi di sini.
