@@ -74,4 +74,4 @@ http://127.0.0.1:8000
 
 ## Video Demonstrasi
 
-Link video YouTube demonstrasi di sini.
+[Link video YouTube demonstrasi di sini.](https://youtu.be/2byg8iouscE)
